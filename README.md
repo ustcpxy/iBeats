@@ -6,7 +6,7 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 2022年7月29日 下午6:53 | 80 |
+| 2022年8月29日 下午6:53 | 85 |
 
 <!--END_SECTION:my_heart_rate-->
 
