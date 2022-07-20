@@ -6,7 +6,7 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 2345 | 34 |
+| 2020 | 89 |
 
 <!--END_SECTION:my_heart_rate-->
 
