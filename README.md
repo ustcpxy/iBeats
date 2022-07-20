@@ -6,7 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| 2020 | 89 |
+| Jul 20, 2022 at 15:20 | 63 |
+| Jul 20, 2022 at 15:14 | 74 |
+| Jul 20, 2022 at 15:09 | 69 |
+| Jul 20, 2022 at 15:06 | 72 |
+| Jul 20, 2022 at 14:59 | 66 |
+| Jul 20, 2022 at 14:55 | 68 |
+| Jul 20, 2022 at 14:51 | 69 |
+| Jul 20, 2022 at 14:44 | 69 |
+| Jul 20, 2022 at 14:39 | 71 |
+| Jul 20, 2022 at 14:35 | 73 |
 
 <!--END_SECTION:my_heart_rate-->
 
